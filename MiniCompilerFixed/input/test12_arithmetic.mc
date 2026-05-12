@@ -1,0 +1,14 @@
+int a = 100;
+int b = 4;
+int add;
+int sub;
+int mul;
+int div;
+add = a + b;
+sub = a - b;
+mul = a * b;
+div = a / b;
+print(add);
+print(sub);
+print(mul);
+print(div);
